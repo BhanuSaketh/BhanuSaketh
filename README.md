@@ -2,20 +2,18 @@
 <h3 align="center">Driven by Data, Powered by Curiosity 🔢🔬</h3>
 
 - 🔭 I’m currently working on **Climate-Aware Sentiment Analysis: Leveraging ClimateBERT and GRU-Based Attention Mechanisms to Optimize Customer Engagement**
-
 - 🌱 I’m currently learning **PySpark**
-
 - 💬 Ask me about **Machine Learning, Deep Learning, and Big Data Analytics**
-
 - ⚡ Fun fact: **Data is the new oil, and I'm here to refine it!**
-
-- 📫 How to reach me **pbhanusaketh1602@gmail.com**
+- 📫 How to reach me: **pbhanusaketh1602@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhanu-saketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu saketh" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bhanu-saketh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu saketh" height="30" width="40" />
+  </a>
 </p>
 
 ---
