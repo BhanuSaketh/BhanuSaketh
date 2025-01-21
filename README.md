@@ -87,9 +87,9 @@
     </td>
   </tr>
 </table>
-<br>
----
 
+---
+<br>
 <h3 align="left">My Data Science Toolkit:</h3>
 <ul>
   <li>📊 Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Power BI</li>
