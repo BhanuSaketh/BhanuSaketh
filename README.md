@@ -87,7 +87,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 ---
 
 <h3 align="left">My Data Science Toolkit:</h3>
