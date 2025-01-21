@@ -19,7 +19,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="left">
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
